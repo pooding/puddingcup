@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>This is my domain, keep out, grrr!!!</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Tuna_and_cross_vegetables.jpg" alt="Tuna" width="500" height="333">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg" alt="Vegetables" width="500" height="333">
+
+<p><a href="https://en.wikipedia.org/wiki/Tuna">Tuna on Wikipedia</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Vegetable">Vegetables on Wikipedia</a></p>
